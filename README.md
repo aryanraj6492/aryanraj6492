@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Video Summarization**
 
-- 🌱 I’m currently learning **azure & AWS**
+- 🌱 I’m currently eager to learn **☁️ Cloud & DevOps ( AWS, Docker, Kubernetes)**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 📫 How to reach me **arajhelio111@gmail.com**
+- 💬 Ask me about **🛠️ Frameworks & tools, 🤖 AI, ML, and automation**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AmfmsT-FmFFllc6pZSa4dsiI9Niuk6/view?usp=drive_link](https://drive.google.com/file/d/1AmfmsT-FmFFllc6pZSa4dsiI9Niuk6/view?usp=drive_link)
+- 📫 How to reach me **arajhelio111@gmail.com**
 
 - ⚡ Fun fact **🚀 Did you know? The first computer bug was a real bug! In 1947, engineers found a moth stuck in a relay of the Harvard Mark II computer. They taped it into the logbook and labeled it "First actual case of bug being found." Debugging has been a thing ever since! 🦋💻**
 
